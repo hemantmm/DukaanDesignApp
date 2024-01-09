@@ -75,12 +75,9 @@ function Navbar() {
                 </div>
               </div>
             </div>
-
             <Transaction />
-
           </div>
         </section>
-
       </section>
     </>
   )
