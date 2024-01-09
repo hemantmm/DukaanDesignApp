@@ -152,7 +152,7 @@ function App() {
               Plugins
             </li>
           </ul>
-          <div className='flex mt-auto mb-5 ml-4 mr-4 pt-2 pb-2 pl-4 pr-4 gap-3 rounded text-sm bg-slate-600'>
+          <div className='flex items-center mt-auto mb-5 ml-4 mr-4 pt-2 pb-2 pl-4 pr-4 gap-3 rounded text-sm bg-slate-600'>
             <div>
               <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" class="mr12">
                 <rect width="36" height="36" rx="4" fill="white" fill-opacity="0.1"></rect>
@@ -160,7 +160,7 @@ function App() {
               </svg>
             </div>
             <div className='flex flex-col gap-1'>
-              <span>Available Credits</span>
+              <span>Available credits</span>
               <span className='rounded-2xl font-medium text-white'>222.10</span>
             </div>
           </div>
